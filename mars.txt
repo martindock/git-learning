@@ -2,6 +2,10 @@ Introduction to the planet Mars:
 
 Mars is a red planet, with water. But frozen.
 
+<<<<<<< HEAD
 Mars is just insider the Goldielocks zone
 
 TODO: Add about aliens on Mars
+=======
+Mars is just insider the Goldielocks zoneTODO: Add about aliens on Mars "Hello, this is Cordula."
+>>>>>>> 980edc89e1345345eddc2fcb402e00b530141cf2
